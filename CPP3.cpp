@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-/*C++ program to accept two numbers and print their sum.*/
+/*C++ program to perform arithmatic operations with two numbers.*/
 
 int main()
 { 
